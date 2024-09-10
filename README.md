@@ -11,7 +11,7 @@ Each Wednesday you will record your code challenge and core skills interviews, a
 
 If you are using resources while on your recorded interview, be sure you are sharing your screen with the interviewer and including them in on your research - this is another part of including them in on your thought process.
 
-### Mock Interviews & Optional Recorded Interviews (Weeks 9 - 18)
+### 💬 Mock Interviews & Optional Recorded Interviews (Weeks 9 - 18)
 In the coming weeks, you will focus on using less resources to problem solve, you won't always be able to use google or external resources when interviewing. If it is unclear to you at the time of interviewing, that is something that you should explicitly ask. A major part of these technical interviews, beyond knowing how to code and having methods memorized, is showing that you can communicate - so walk through your thought processes and share them with the interviewer.
 
 ### 💡 Mondays will be used to review feedback
